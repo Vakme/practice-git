@@ -343,3 +343,4 @@ git help
 ```bash
 git help <command>
 ```
+http://www.askaswiss.com/2016/01/12-useful-advanced-git-commands.html
